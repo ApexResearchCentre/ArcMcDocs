@@ -11,7 +11,6 @@ site_name = "Documentation"
 # edit_uri = "edit/main/docs/"
 
 nav = [
-  { "Get started" = "index.md" },
   { "Markdown in 5min" = "markdown.md" },
 ]
 
@@ -20,7 +19,7 @@ nav = [
 
 [project.theme]
 # variant = "classic"
-# custom_dir = "overrides"
+custom_dir = "overrides"
 # favicon = "images/favicon.png"
 language = "en"
 features = [
