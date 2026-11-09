@@ -1,10 +1,10 @@
 [project]
-site_url = "https://www.example.com/"
-site_name = "Documentation"
+site_url = "https://mc.arc.ac.cn/"
+site_name = "ARC Minecraft"
 # site_description = "Your project description"
 # site_author = "Your name"
 
-# copyright = "Copyright &copy; 2026 Your name"
+copyright = "Copyright &copy; Apex Research Centre (ARC)"
 
 # repo_url = "https://github.com/user/repo"
 # repo_name = "user/repo"
@@ -115,3 +115,6 @@ pymdownx.tabbed.alternate_style = true
 pymdownx.tabbed.combine_header_slug = true
 pymdownx.tasklist.custom_checkbox = true
 pymdownx.tilde = {}
+
+[project.extra]
+generator = false
