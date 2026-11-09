@@ -3,7 +3,7 @@ icon: simple/markdown
 ---
 # Get started
 
-For full documentation visit [zensical.org](https://zensical.org/docs/).
+For full documentation visit [zensical.org](https://mc.arc.ac.cn/start).
 
 ## Commands
 
