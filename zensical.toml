@@ -11,7 +11,7 @@ copyright = "Copyright &copy; Apex Research Centre (ARC) All rights reserved."
 # edit_uri = "edit/main/docs/"
 
 nav = [
-  { "Markdown in 5min" = "markdown.md" },
+
 ]
 
 # extra_css = ["stylesheets/extra.css"]
